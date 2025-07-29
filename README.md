@@ -1,19 +1,13 @@
-# Gemini AI Web App
+# AI Chatbot using Gemini API
 
-Gemini AI is an innovative web application that brings an interactive chat experience with the help of Google Gemini Pro api. Built using Node.js, React.js, MongoDB, and Redux Toolkit, this app allows users to engage in text-based conversations with Gemini AI. The application features Google OAuth V2 for user authentication, enabling enhanced capabilities and personalization.
+This is a full-stack AI chatbot project built with Node.js, Express, MongoDB, and Google Gemini API. Developed and customized by Adyasha Samantray.
 
-## Description
+## Features
+- JWT Authentication
+- MongoDB chat history
+- Google Gemini integration
 
-Gemini AI Web App is a Google Gemini clone, providing users with a seamless chat interface powered by advanced AI capabilities. Users can enjoy conversations with Gemini AI, receiving text-based responses. The application supports two user types:
-
-1. **Non-authenticated Users:**
-
-   - Limited to 10 chat requests per hour.
-   - Access to the last 5 chat history entries.
-
-2. **Authenticated Users:**
-   - Unlimited chat responses.
-   - Full chat history access upon login.
-3. **Modern Interface:**
-   - Enjoy a clean and user-friendly interface for a seamless chat experience.
-
+## Setup
+1. Clone the repo
+2. Run `npm install` in both frontend and backend
+3. Add your `.env` file with API keys
