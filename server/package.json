@@ -23,7 +23,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "",
+  "author": "adyasha",
   "license": "ISC",
-  "description": ""
+  "description": "ai chatbot using gemini api"
 }

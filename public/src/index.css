@@ -8,12 +8,12 @@
 }
 
 :root {
-  --bard-color-brand-text-gradient-stop-1: #4285f4;
-  --bard-color-brand-text-gradient-stop-1-rgb: rgb(66, 133, 244);
-  --bard-color-brand-text-gradient-stop-2: #9b72cb;
-  --bard-color-brand-text-gradient-stop-2-rgb: rgb(155, 114, 203);
-  --bard-color-brand-text-gradient-stop-3: #d96570;
-  --bard-color-brand-text-gradient-stop-3-rgb: rgb(217, 101, 112);
+  --bard-color-brand-text-gradient-stop-1: #6591d3;
+  --bard-color-brand-text-gradient-stop-1-rgb: rgb(125, 161, 68);
+  --bard-color-brand-text-gradient-stop-2: #bd7573;
+  --bard-color-brand-text-gradient-stop-2-rgb: rgb(128, 52, 81);
+  --bard-color-brand-text-gradient-stop-3: #5f8d7a;
+  --bard-color-brand-text-gradient-stop-3-rgb: rgb(229, 231, 93);
   --bard-color-surface: #131314;
 }
 
@@ -108,11 +108,11 @@
 }
 
 [data-theme="light"] {
-  --chat-section-bg: #ffffff;
+  --chat-section-bg: #d8aa6f;
 
   --userprompt-text-span-color: #9c72cb;
 
-  --logo-font-color: #5f6368;
+  --logo-font-color: #212427;
   --header-plus-bg: #e9eef6;
   --header-login-border: rgba(51, 219, 248, 0.096);
   --header-login-hover-bg: #dde3ea;
